@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>vikdiesel</Author>
+  <LastAuthor>vikdiesel</LastAuthor>
+  <Created>2013-04-04T14:09:21Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7995</WindowHeight>
+  <WindowWidth>20115</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>75</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="26" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="56.25"/>
+   <Column ss:Width="942.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Артикул1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Соответствующие артикулы аналогов</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-124</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3974105U27, 3974105U28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-125</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">04437-17020, 0443717040, 0443717040, 0443720020, 0443720020, 0443820030, 0443820030, 0443820050, 0443820050, 0443832070, 0443832070, 0443832131, 0443832131, 443717020, 443821060, 443833021</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-126</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443720010, 0443720010, 0443722050, 0443722050, 0443728020, 0443728020, 0443828011, 0443828011, 443728030</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-127</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">44018S04J01, 44018S0A010, 44018S0AJ02, 44018S10000, 44018SR3901, 44333SD9003, 44333SJ4960, 44333SJ4961, MB297499, MB526826, MB620050</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A034-25-540A, F00522540A, F02422540, F06122540, F06122540A, FA5022530A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-132</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443820060, 0443820060, 0443820140, 0443820140, 0443820330, 0443820330, 0443821050, 0443821050, 443820060</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-133</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443820070, 0443820070, 0443820150, 0443820150, 443820070, 443820150</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-134</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">04437-17010, 0443717030, 0443717030, 0443833010, 0443833010, 0443833011, 0443833011</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-135</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4411863B90</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-136</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">44017S04J00, 44017S04J01, 44017S0A030, 44017S0AJ02, 44017S87A50, 44017SR3000, 44315SF4J22, SR3-000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-138</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">39741-41B27, 44119-51F20, 4411962D00, 4411972F00</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-140</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443714020, 0443714020, 0443812161, 0443812161, 0443820240, 0443842150</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-141</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443810070, MB526894, MB526894</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-144</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443812070, 0443812191, 443812070, 443812191</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-145</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443860021, 43447-60040, 443860021</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-146</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">44018-SAA-900</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-147</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">44017SAP900, 44018SAA000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-148</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0442852220, 04438-52060, 04438-52062, 04438-52080, 0443852063</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-149</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3924123U26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-150</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">39741-AX025</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-151</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443852020, 0443852110, 443852020, 443852110</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-153</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443835030, 443835030</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-154</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3974129R25, 3974129R28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-155</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443826011</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">02-156</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">0443730060</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,186 @@
+body {padding-top:60px;}
+
+.sidebar-nav ul.nav > li > a > span.fa {color:#333;}
+.sidebar-nav ul.nav > li.active > a > span.fa {color:#fff;}
+
+.site-expired #content {opacity:0.2;}
+.site-expired-account-page #alerts {display:none;}
+
+.m-btm {margin-bottom:18px;}
+
+.hero-unit.quickstart h1 {margin-bottom:20px; font-size:50px;}
+.hero-unit.quickstart {padding:30px; font-size:16px;}
+.sub-hero-unit {padding:15px; font-size:16px; margin-top:-15px;}
+.sub-hero-unit .dvdr {margin-left:10px; margin-right:10px;}
+.sub-hero-unit .dvdr-r {margin-right:20px;}
+.jumbo-settings-block .btn {width:160px; text-align:left; margin-right:10px;}
+
+#navi .navbar-inner {padding-left:20px; padding-right:20px;}
+
+form.payment_form label.radio {font-weight:normal;}
+
+input.input-order {width:50px;}
+
+/* @todo Move to common.css */
+table td.table-row-actions {text-align:right; white-space:nowrap;}
+table td.table-row-actions-left {white-space:nowrap;}
+table td.table-row-actions * {text-align:left;}
+
+.form-actions label.checkbox {margin-left:20px;}
+table tr.divider {border-top: 5px solid #ddd;}
+th.table-th-checkbox label{background:transparent; border:0;}
+
+table.table-striped tbody tr.table-new-line {display:none;}
+table.table-striped tbody tr.table-new-line td {background:#fff;}
+
+.btn-group-mini ul.dropdown-menu {font-size:10px;}
+.btn-group-mini ul.dropdown-menu>li>a {line-height:16px; padding-left:10px; padding-right:10px;}
+
+.inline-edit-btns .inline-edit-btn {opacity:0.2;}
+.inline-edit-btns:hover .inline-edit-btn {opacity:1;}
+
+/* order edit (v.2) */
+.jb_orderedit_show {display:none;}
+.jb_orderedit_active .jb_orderedit_hide {display:none;}
+.jb_orderedit_active .jb_orderedit_show {display:block;}
+.jb_orderedit_active .jb_orderedit_show_inline_block {display:inline-block;}
+.navbar .brand.jb_orderedit_show {display:none;}
+.jb_orderedit_active .navbar .brand.jb_orderedit_show {display:block;}
+
+/* order edit Add-Car */
+.jb_addcar_show_inline_block {display:none;}
+.jb_addcar_show {display:none;}
+.jb_addcar_active .jb_addcar_hide {display:none;}
+.jb_addcar_active .jb_addcar_show {display:block;}
+.jb_addcar_active .jb_addcar_show_inline_block {display:inline-block;}
+.navbar .brand.jb_addcar_show {display:none;}
+.jb_addcar_active .navbar .brand.jb_addcar_show {display:block;}
+
+/* order edit Add-Schedule */
+.jb_addschedule_show {display:none;}
+.jb_addschedule_active .jb_addschedule_hide {display:none;}
+.jb_addschedule_active .jb_addschedule_show {display:block;}
+.jb_addschedule_active .jb_addschedule_show_inline_block {display:inline-block;}
+.navbar .brand.jb_addschedule_show {display:none;}
+.jb_addschedule_active .navbar .brand.jb_addschedule_show {display:block;}
+
+.jb-orderedit-alert-container {position:relative;}
+.jb-orderedit-alert {-position:fixed;}
+
+.order_table_group_title {margin-top:50px; margin-left:8px;}
+.order_table_group_block {margin-top:40px;}
+
+/* Schedule */
+.jb-service-schedule .btn-block+.btn-block {margin-top:0;}
+.jb-service-schedule td {height:26px;}
+.jb-service-schedule td div {position:absolute; top:0px; left:0px; width:100%; height:200%; }
+.jb-service-schedule .book-end {display:none;}
+.jb-service-schedule.book-start-active .book-start {display:none;}
+.jb-service-schedule.book-start-active .book-end {display:block;}
+
+.table-addto {width:36px;}
+th.table-time {width:40px;}
+th.table-addto {background:#eee;}
+td.table-addto {background:#ddd;}
+
+/* fields */
+input.title-field {padding:10px; font-size:18px; height:auto;}
+label.magic-checkbox input {margin-top:0; opacity:0.8;}
+
+/* filter */
+.twof_filter_container a {margin-left:7px;}
+.twof_filter_container a.selected {background:#ccc; color:#333;}
+.twof_filter_container a.selected:hover {background:#ccc; color:#333; text-decoration:none;}
+
+/* common things */
+.dropdown-menu li.disabled a i {visibility:hidden}
+.m20 {margin-bottom:20px;}
+.m40 {margin-bottom:40px;}
+.form-help-block-special {margin-top:10px;}
+.form-input-addon-special input[type="checkbox"] {margin-top:0;}
+.labels-inline label input {margin:0 5px 0 0;}
+.labels-inline label {margin:0 20px 5px 0; padding:3px 10px; border-radius: 2px;}
+.labels-inline label.checkbox-checked {background: #eee;}
+
+/* javascript helpers */
+.hiddenUtilityMessage {display:none;}
+
+/* upload target */
+#uploadTarget.visible {width:100%; height:500px; border:1px solid #ddd; display:inline;}
+
+/* system messages */
+.system-bigblock-msg {display:none;}
+/* .home .system-smallblock-msg {display:none;}
+.home .system-bigblock-msg {display:block;} */
+
+/* prices */
+.brands-filter li {background:#f9f9f9; line-height:normal; font-size:12px;}
+.brands-filter li a {}
+.brands-filter li.selected {background:#eee; font-weight:bold;}
+
+/* ORDERS */
+select.order_change_status {margin:0; font-size:10px; height:24px; line-height:24px;}
+.table tbody tr.cancelled td {background-color: #F9F9F9; color:#777;}
+.table .order_total_key {text-align:right;}
+.table .order_total_val {font-weight:bold;}
+
+.table tr.gray td {background-color:#f5f5f5;}
+.table td.success {background-color:#dff0d8;}
+.table td.error {background-color:#f2dede;}
+.table td.warning {background-color:#fcf8e3;}
+.table td.info {background-color:#d9edf7;}
+.table td.gray {background-color:#f5f5f5;}
+
+.jb-order-data-schedules .booking-past {display:none;}
+.jb-order-data-schedules.show-past .booking-past {display:table-row;}
+
+/* swf upload */
+#swfupload_container {background:#eee; padding:10px 10px 0 10px;}
+
+/* .block-message p {margin-bottom:5px;}
+.block-message .alert-actions {padding-top:15px;} */
+
+/* vendor list */
+.vendor-list-actions {width:190px;}
+
+/* table */
+td.td-checkbox {width:20px;}
+
+/* domains */
+tr.domain-tr-line .domain-status span {display:none;}
+tr.domain-tr-line.domain-active .d-active {display:inline;}
+tr.domain-tr-line.domain-inactive .d-inactive {display:inline;}
+tr.domain-tr-line.do-check .d-checking {display:inline;}
+
+/* nav nav-tabs nav-stacked improvements */
+.nav.nav-tabs.nav-stacked li.active a, .nav.nav-tabs.nav-stacked li.active a:hover {color: #fff; background-color: #08c; border-color:#08c;}
+.nav.nav-tabs.nav-stacked li.active a [class*="icon-"] {background-image: url("bootstrap/img/glyphicons-halflings-white.png");}
+.nav.nav-tabs.nav-stacked li.active a span.muted, .nav.nav-tabs.nav-stacked li.active a:hover span.muted {color:#fff;}
+.nav.nav-tabs.nav-stacked li a:hover span.muted {color: #005580;}
+
+/* APISMPL: config */
+.config-block {margin-bottom:40px;}
+.config-block h2 {margin-bottom:20px;}
+
+/* well */
+.well-sm {padding: 5px 9px 9px 9px;}
+.well-plain {box-shadow:none; border:0;}
+.well-centered {text-align:center;}
+
+/* buttons */
+.btn-fw-8 {width:80px;}
+
+/* Footer */
+ #footer {margin-bottom:10px;}
+ .offline #footer {margin-bottom:0;}
+ #whodidit {text-align:right;}
+ 
+ /* Responsiveness */
+ @media (max-width: 979px)
+{
+	body {margin-top:0px;}
+}
+ @media (max-width: 850px)
+{
+	.hide-on-small {display:none;}
+}
