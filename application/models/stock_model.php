@@ -40,9 +40,9 @@ class Stock_model extends CI_Model {
 	 */	
 	public function digest($arts, $use_crosses = FALSE, $primary_article = FALSE)
 	{
-//		if (empty($arts)) {
-//			$arts = array($primary_article);
-//		}
+		if (empty($arts)) {
+			$arts = array($primary_article);
+		}
 
 		// Check authorisation ('cause we offer price discounts for some users)
 		if (!empty($this->access) and $this->access->_is_auth())
@@ -55,10 +55,10 @@ class Stock_model extends CI_Model {
 		}
 		
 		// Extend $arts with crosses
-//		if ($use_crosses)
-//		{
-//			$arts = $this->extend_with_crosses($arts);
-//		}
+		if ($use_crosses)
+		{
+			$arts = $this->extend_with_crosses($arts);
+		}
 
 		// Grab Prices for each Article ID with one query
 		$this->_get_prices_result($arts, $discount, $primary_article, true);
@@ -121,6 +121,9 @@ class Stock_model extends CI_Model {
 
 		//
 		$this->arts_keyvals = array();
+
+		if (!empty($primary_article))
+			$arts[] = $primary_article;
 
 		if (empty($arts) || !is_array($arts))
 			return null;

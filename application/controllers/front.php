@@ -569,7 +569,7 @@ class Front extends CI_Controller
         $part = $this->partsdb_api->part($brand, $number);
 
         // Get stock data
-        if (!empty($part)) {
+        if (!empty($part) && !empty($part->data)) {
             $stock = $this->stock->digest($part->data->parts, TRUE /* with crosses */, $part->data->part->data);
         } else {
             $primary_article = (object) array (

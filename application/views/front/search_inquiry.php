@@ -10,7 +10,7 @@
 	
 <?=$errors?>
 
-<?=form_open('auto/search_inquiry', array('id'=>'search_inquiry', 'class'=>'form-horizontal')) ?>
+<?=form_open('front/search_inquiry', array('id'=>'search_inquiry', 'class'=>'form-horizontal')) ?>
 
 	<div class="control-group">
 		<label class="control-label" for="name">Имя</label>

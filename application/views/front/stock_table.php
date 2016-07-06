@@ -2,7 +2,7 @@
 
 		<div class="alert alert-error"><i class="icon-remove-sign"></i> <strong>Извините</strong>, запрошенных артикулов нет в наличии.</div>
 		<p>
-			<a class="btn btn-primary" href="<?=site_url('auto/search_inquiry')?>"><i class="icon-edit icon-white"></i> Заявка</a>
+			<a class="btn btn-primary" href="<?=site_url('front/search_inquiry')?>"><i class="icon-edit icon-white"></i> Заявка</a>
 			<a class="btn" href="#similar" id="not-in-stock-toggle"><i class="icon-refresh"></i> Перечень артикулов</a>
 			<span class="help-inline">Перечень артикулов, по которым проверялось наличие. <strong>Справочно.</strong></span>
 		</p>
